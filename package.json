@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/kevfeng01/duyi-generator-cli.git"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
